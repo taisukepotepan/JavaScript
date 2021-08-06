@@ -1,0 +1,24 @@
+.container {
+  width: 300px;
+  height: auto;
+  border: 5px solid #a9a9a9;
+  padding-left: 5px;
+  padding-bottom: 40px;
+}
+.timer {
+  font-size: 30px;
+  margin: 20px 0 40px 20px;
+}
+.controls {
+  width: 85%;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: 14px
+}
+.button {
+  border: 2px solid #808080;
+  border-radius: 5px;
+  background-color: #c0c0c0;
+  padding: 10px;
+}
